@@ -1,0 +1,27 @@
+{
+  "name": "@miloter/test-search",
+  "version": "1.0.0",
+  "main": "test-search.js",
+  "description": "Advanced searcher for texts in memory",
+  "keywords": [
+    "searcher",
+    "texts",
+    "memory"
+  ],
+  "author": "miloter",
+  "engines": {
+    "node": ">= 13.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloter/test-search.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@miloter/mini-scanner": "^1.0.0"
+  }
+}
